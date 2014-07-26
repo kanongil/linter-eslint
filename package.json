@@ -1,0 +1,16 @@
+{
+  "name": "linter-eslint",
+  "main": "./lib/init",
+  "linter-package": true,
+  "activationEvents": [],
+  "version": "0.1.0",
+  "description": "Linter plugin for JavaScript, using eslint",
+  "repository": "https://github.com/kanongil/linter-eslint.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "eslint": "~0.7.1"
+  }
+}
